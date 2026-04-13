@@ -1,8 +1,8 @@
 # Filter Design Assignment
 
 ## Student Information
-- **Name:** [Your Name]
-- **Student ID:** [Your Student ID]
+- **Name:** Md Mohiuddin Mollah
+- **Student ID:** s2312633
 
 ## Objective
 The goal of this assignment is to design suitable filters to isolate specific frequency components from a composite input signal.
