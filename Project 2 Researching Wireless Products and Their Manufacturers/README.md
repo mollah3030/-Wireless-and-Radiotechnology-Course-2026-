@@ -1,8 +1,8 @@
 # Wireless Products and Manufacturers Research
 
 ## Student Information
-- **Name:** [Your Name]
-- **Student ID:** [Your Student ID]
+- **Name:** Md Mohiuddin Mollah
+- **Student ID:** s2312633
 
 ## Assignment Objective
 The purpose of this assignment is to become familiar with important wireless products used in the industry and to identify their manufacturers using official manufacturer sources.
