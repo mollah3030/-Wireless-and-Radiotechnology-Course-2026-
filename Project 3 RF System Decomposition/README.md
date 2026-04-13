@@ -1,8 +1,8 @@
 # RF System Block Analysis – ESP32
 
 ## Student Information
-- **Name:** [Your Name]
-- **Student ID:** [Your ID]
+- **Name:** Md Mohiuddin Mollah
+- **Student ID:** s2312633
 
 ## Selected Device
 **ESP32**
