@@ -2,22 +2,21 @@
 
 ```mermaid
 flowchart LR
-    MCU[Information Source / MCU + Wi-Fi/Bluetooth Baseband]
+    MCU["Information Source / MCU + Wi-Fi and Bluetooth Baseband"]
+    MOD["Modulation"]
+    DEMOD["Demodulation"]
 
-    MOD[Modulation]
-    DEMOD[Demodulation]
+    TX["2.4 GHz RF Transmitter"]
+    RX["2.4 GHz RF Receiver"]
 
-    TX[2.4 GHz RF Transmitter]
-    RX[2.4 GHz RF Receiver]
+    PA["Power Amplifier"]
+    LNA["Low Noise Amplifier"]
 
-    PA[Power Amplifier (PA)]
-    LNA[Low Noise Amplifier (LNA)]
+    SW["Balun + TX/RX Switch + RF Filtering and Matching"]
+    ANT["Antenna Interface"]
 
-    SW[Balun + TX/RX Switch + RF Filtering / Matching]
-    ANT[Antenna Interface]
-
-    PWR[Power Supply / Bias / Regulators]
-    CLK[Clock Generator]
+    PWR["Power Supply / Bias / Regulators"]
+    CLK["Clock Generator"]
 
     MCU --> MOD --> TX --> PA --> SW --> ANT
     ANT --> SW --> LNA --> RX --> DEMOD --> MCU
