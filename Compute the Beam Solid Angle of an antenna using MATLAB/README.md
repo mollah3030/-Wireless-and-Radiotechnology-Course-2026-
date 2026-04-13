@@ -1,8 +1,8 @@
 # Beam Solid Angle of an Antenna Using MATLAB
 
 ## Student Information
-- **Name:** [Your Name]
-- **Student ID:** [Your Student ID]
+- **Name:** Md Mohiuddin Mollah
+- **Student ID:** s2312633
 
 ## Objective
 The purpose of this assignment is to compute the beam solid angle of an antenna from its radiation pattern using MATLAB. The program uses spherical coordinates and numerical integration to calculate the beam area in steradians.
