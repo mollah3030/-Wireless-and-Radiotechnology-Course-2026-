@@ -1,8 +1,8 @@
 # 3D Radiation Pattern of an Omni-Directional Antenna Using MATLAB
 
 ## Student Information
-- **Name:** [Your Name]
-- **Student ID:** [Your Student ID]
+- **Name:** Md Mohiuddin Mollah
+- **Student ID:** s2312633
 
 ## Objective
 The purpose of this assignment is to plot the 3-dimensional radiation pattern of an omni-directional antenna using MATLAB. The program takes the lower and upper bounds of theta and phi as input values, generates the mesh grid, and displays the 3D pattern based on the entered field pattern.
